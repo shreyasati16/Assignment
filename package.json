@@ -1,5 +1,5 @@
 {
-  "homepage": "https://myusername.github.io/Assignment",
+  "homepage": "https://shreyasati16.github.io/Assignment/",
   "name": "assignment",
   "version": "0.1.0",
   "private": true,
@@ -14,10 +14,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+       "predeploy": "npm run build",
+       "deploy": "gh-pages -d build",
+        "start": "react-scripts start",
+        "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
